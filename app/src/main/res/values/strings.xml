@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Draw-Line</string>
+    <string name="redo">Redo</string>
+    <string name="undo">Undo</string>
+    <string name="editMode">Edit Mode</string>
+    <string name="select">Select</string>
+    <string name="line">Line</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="save">Save</string>
+    <string name="draw_lines">Draw Lines</string>
+</resources>
